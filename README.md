@@ -13,7 +13,10 @@ writing, the code, while it is intended to produce a bytestream that can be
 reconstructed into a working font, the reference decompression code is not
 done, and the exact format of that bytestream is subject to change.
 
-The build process depends on the g++ compiler.
+The build process depends on the g++ compiler. Try: 
+```
+sudo apt-get install g++
+```
 
 ## Build
 
